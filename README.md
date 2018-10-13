@@ -11,14 +11,14 @@ In addition to the FASTQ files with the reads, we provide reference annotation f
 ### Gencode reference files
 The Gencode reference files were downloaded from [https://www.gencodegenes.org/releases/current.html](https://www.gencodegenes.org/releases/current.html). 
 
-- reference/GRCh38.primary_assembly.genome.1.1.10M.fa (genome sequence)
-- reference/gencode.v28.transcripts.1.1.10M.fa.gz (transcript sequences)
-- reference/gencode.v28.annotation.1.1.10M.gtf (gene annotation)
+- reference/Gencode28/GRCh38.primary_assembly.genome.1.1.10M.fa (genome sequence)
+- reference/Gencode28/gencode.v28.transcripts.1.1.10M.fa.gz (transcript sequences)
+- reference/Gencode28/gencode.v28.annotation.1.1.10M.gtf (gene annotation)
 
 ### Ensembl reference files
 The Ensembl reference files were downloaded from [https://www.ensembl.org/info/data/ftp/index.html](https://www.ensembl.org/info/data/ftp/index.html).
 
-- reference/Homo_sapiens.GRCh38.dna.chromosome.1.1.10M.fa (genome sequence)
-- reference/Homo_sapiens.GRCh38.cdna.all.1.1.10M.fa.gz (cDNA transcript sequences)
-- reference/Homo_sapiens.GRCh38.ncrna.1.1.10M.fa.gz (ncRNA transcript sequences)
-- reference/Homo_sapiens.GRCh38.93.1.1.10M.gtf (gene annotation)
+- reference/Ensembl.GRCh38.93/Homo_sapiens.GRCh38.dna.chromosome.1.1.10M.fa (genome sequence)
+- reference/Ensembl.GRCh38.93/Homo_sapiens.GRCh38.cdna.all.1.1.10M.fa.gz (cDNA transcript sequences)
+- reference/Ensembl.GRCh38.93/Homo_sapiens.GRCh38.ncrna.1.1.10M.fa.gz (ncRNA transcript sequences)
+- reference/Ensembl.GRCh38.93/Homo_sapiens.GRCh38.93.1.1.10M.gtf (gene annotation)
